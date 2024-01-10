@@ -11,15 +11,41 @@
 .navbar {
     display: flex;
     justify-content: space-between;
-    padding: 60px;
+    padding: 40px;
 }
 
 .logo {
-    height: 80px;
-    width: auto;
+    height: auto;
+    max-width: 100%;
+    width: 190px;
 }
 
 .hamburger {
-    height: 60px;
-    width: 80px;
+    padding: 10px;
+    height: 80px;
+    width: 100px;
+}
+
+.hero-section {
+    display: flex;
+}
+
+.hero-img {
+    max-width: 100%;
+    height: auto;
+    z-index: -1;
+    margin-left: 10rem;
+}
+
+.text-img {
+    position: absolute;
+    width: 30rem;
+    margin-top: 13.4rem;
+}
+
+.square {
+    width: 11.7rem;
+    height: 5rem;
+    background-color: #000000;
+    margin-top: 13.4rem;
 }

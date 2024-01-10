@@ -1,0 +1,25 @@
+
+
+
+
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 60px;
+}
+
+.logo {
+    height: 80px;
+    width: auto;
+}
+
+.hamburger {
+    height: 60px;
+    width: 80px;
+}

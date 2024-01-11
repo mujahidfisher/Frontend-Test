@@ -128,3 +128,163 @@
   display: flex;
   justify-content: space-between;
 }
+
+.text-main {
+  display: none;
+}
+
+.blackbox2 {
+    display: none;
+}
+
+@media only screen and (max-width: 426px) {
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    gap: 0;
+    padding: 5px;
+  }
+
+  .logo {
+    height: auto;
+    max-width: 100%;
+    width: 100px;
+    margin-top: 10px;
+  }
+  
+  .hamburger {
+    height: 60px;
+    width: 80px;
+  }
+
+  .hero-section {
+    display: flex;
+  }
+
+  .hero-img {
+    width: 10rem;
+    height: auto;
+    z-index: -1;
+    margin-left: 0rem;
+  }
+
+  .text-main {
+    display: inline;
+    background-color: #244ac2;
+    color: white;
+    padding: 20px;
+  }
+
+  .text-img {
+    position: relative;
+    height: 0rem;
+    width: 0rem;
+    margin-top: 0rem;
+  }
+
+  .blackbox2 {
+    display: inline-block;
+    height: 3rem;
+    width: 3rem;
+    margin-left: 4px;
+    background-color: #000000;
+  }
+
+  .square {
+    width: 0rem;
+    height: 0rem;
+    background-color: #000000;
+    margin-top: 0rem;
+  }
+
+  .mid-section {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse
+  }
+  
+  .icons {
+    width: 200px;
+    transform: rotate(90deg);
+    margin-top: 80px;
+    margin-left: -50px;
+  }
+  
+  .text-area {
+    margin: 1rem;
+    margin-left: -50px;
+    margin-bottom: 20px;
+  }
+  
+  .text-visio {
+    color: #061c2c;
+    font-weight: 400;
+    letter-spacing: 0em;
+    line-height: 1.2;
+  }
+
+  .none {
+    display: none;
+  }
+
+  .card-container1 {
+    display: flex;
+    flex-direction: column;
+    gap: 0rem;
+    flex-wrap: wrap;
+  }
+  
+  .box-card1,
+  .card-box2,
+  .card-box3 {
+    background-color: #061c2c;
+    width: 20rem;
+    height: auto;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    line-height: 1.1;
+    margin-bottom: 2rem;
+  }
+  
+  .t1 {
+    color: #1e7bae;
+    font-size: 4rem;
+  }
+  
+  .t2 {
+    color: white;
+    font-size: 20px;
+    font-weight: 200;
+  }
+  
+  .card-container2 {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .btn-card1,
+  .btn-card2 {
+    display: flex;
+    justify-content: space-between;
+    background-color: #244ac2;
+    color: white;
+    width: 9rem;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 12px;
+    margin-bottom: 20px;
+  }
+  
+  .arrow-btn {
+    font-weight: 1000;
+    color: #2794df;
+  }
+  
+  .btn-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+  }
+
+}

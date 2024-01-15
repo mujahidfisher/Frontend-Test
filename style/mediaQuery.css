@@ -655,93 +655,92 @@
 }
 
 @media only screen and (width: 2560px) {
-    .navbar {
-        gap: 60rem;
-        padding: 30px;
-      }
-    
-      .logo {
-        width: 250px;
-      }
-    
-      .hamburger {
-        padding: 0px;
-        height: 120px;
-        width: 150px;
-      }
-    
-      .hero-img {
-        width: 140rem;
-        height: 70rem;
-        margin-left: 10rem;
-      }
-    
-      .text-img {
-        height: 10rem;
-        width: 60rem;
-        margin-top: 28rem;
-      }
-    
-      .square {
-        width: 10rem;
-        height: 10rem;
-        margin-top: 28rem;
-      }
-    
-      .next {
-        height: 25rem;
-        margin-top: -50rem;
-        margin-left: 135rem;
-      }
-    
-      .indicaters {
-        height: 50px;
-        width: 50px;
-        margin-top: -6rem;
-        margin-bottom: 5rem;
-        margin-left: 134rem;
-      }
-    
-      .icons {
-        width: 50rem;
-        padding: 10px;
-      }
-    
-      .none {
-        display: inline;
-      }
-    
-      .text-area {
-        margin: 10rem;
-        font-size: 35px;
-      }
-    
-      .box-card1,
-      .card-box2,
-      .card-box3 {
-        width: 45rem;
-        padding-left: 40px;
-        padding-bottom: 40px;
-        line-height: 1.5;
-        margin-bottom: 2rem;
-      }
-    
-      .btn-card1,
-      .btn-card2 {
-        width: 20rem;
-        padding: 10px;
-        padding-left: 20px;
-        padding-right: 20px;
-        font-size: 20px;
-        margin-bottom: 20px;
-      }
+  .navbar {
+    gap: 60rem;
+    padding: 30px;
+  }
 
-      .t1 {
-        font-size: 8rem;
-      }
+  .logo {
+    width: 250px;
+  }
 
-      .t2 {
-        font-size: 2rem;
-      }
-    
+  .hamburger {
+    padding: 0px;
+    height: 120px;
+    width: 150px;
+  }
+
+  .hero-img {
+    width: 140rem;
+    height: 70rem;
+    margin-left: 10rem;
+  }
+
+  .text-img {
+    height: 10rem;
+    width: 60rem;
+    margin-top: 28rem;
+  }
+
+  .square {
+    width: 10rem;
+    height: 10rem;
+    margin-top: 28rem;
+  }
+
+  .next {
+    height: 25rem;
+    margin-top: -50rem;
+    margin-left: 135rem;
+  }
+
+  .indicaters {
+    height: 50px;
+    width: 50px;
+    margin-top: -6rem;
+    margin-bottom: 5rem;
+    margin-left: 134rem;
+  }
+
+  .icons {
+    width: 50rem;
+    padding: 10px;
+  }
+
+  .none {
+    display: inline;
+  }
+
+  .text-area {
+    margin: 10rem;
+    font-size: 35px;
+  }
+
+  .box-card1,
+  .card-box2,
+  .card-box3 {
+    width: 45rem;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    line-height: 1.5;
+    margin-bottom: 2rem;
+  }
+
+  .btn-card1,
+  .btn-card2 {
+    width: 20rem;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+
+  .t1 {
+    font-size: 8rem;
+  }
+
+  .t2 {
+    font-size: 2rem;
+  }
 }

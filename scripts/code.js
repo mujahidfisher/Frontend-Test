@@ -1,14 +1,10 @@
 $(document).ready(function () {
-    let count = 1;
-    console.log(count);
-
   $(".next").on("click", function () {
     let currentImg = $(".active");
     let nextImg = currentImg.next();
-    let indicate1 = $('.indicator1')
+    let indicators = $(".indicator");
 
-
-    count = $(this).data("count") || 1;
+    count = $(this).data("count") || 0;
     $(this).data("count", ++count);
     console.log(count);
 
@@ -21,19 +17,15 @@ $(document).ready(function () {
       nextImg.addClass("active").css("z-index", 10);
     }
 
-    if (count === 1) {
-      indicate1.css("opacity", 0);
-      console.log("worked");
-    }
+    indicators.css({
+      opacity: "1",
+      transform: "rotate(0deg)",
+    });
 
-    // if (count === 2) {
-    //     console.log("well");
-    // }
-
-    // if (count === 3) {
-    // }
-
-    // if (count === 4) {
-    // }
+    let activeIndex = (count - 0) % indicators.length;
+    indicators.eq(activeIndex).css({
+      opacity: "0.5",
+      transform: "rotate(30deg)",
+    });
   });
 });

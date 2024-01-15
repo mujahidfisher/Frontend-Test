@@ -25,7 +25,7 @@ $(document).ready(function () {
     let activeIndex = (count - 0) % indicators.length;
     indicators.eq(activeIndex).css({
       opacity: "0.5",
-      transform: "rotate(30deg)",
+      transform: "rotate(120deg)",
     });
   });
 });

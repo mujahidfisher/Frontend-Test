@@ -1,0 +1,747 @@
+@media only screen and (min-width: 300px) and (max-width: 329px) {
+  .navbar {
+    gap: 0rem;
+    padding: 5px;
+  }
+
+  .logo {
+    width: 100px;
+  }
+
+  .hamburger {
+    padding: 0px;
+    height: 60px;
+    width: 80px;
+  }
+
+  .hero-img {
+    width: 17rem;
+    height: 9rem;
+    margin-left: 1rem;
+  }
+
+  .text-img {
+    height: 1.7rem;
+    width: 9rem;
+    margin-top: 4rem;
+  }
+
+  .square {
+    width: 2rem;
+    height: 1.7rem;
+    margin-top: 4rem;
+  }
+
+  .next {
+    height: 3rem;
+    margin-top: -6rem;
+    margin-left: 16rem;
+  }
+
+  .indicaters {
+    height: 10px;
+    width: 10px;
+    margin-top: -1.6rem;
+    margin-bottom: 2rem;
+    margin-left: 14rem;
+  }
+
+  .icons {
+    width: 8rem;
+    padding: 5px;
+  }
+
+  .none {
+    display: none;
+  }
+
+  .text-area {
+    margin: 1rem;
+    font-size: 12px;
+  }
+
+  .box-card1,
+  .card-box2,
+  .card-box3 {
+    width: 18rem;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 1rem;
+  }
+
+  .btn-card1,
+  .btn-card2 {
+    width: 8rem;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 9px;
+    margin-bottom: 10px;
+  }
+}
+
+@media only screen and (min-width: 330px) and (max-width: 385px) {
+  .navbar {
+    gap: 0rem;
+    padding: 5px;
+  }
+
+  .logo {
+    width: 100px;
+  }
+
+  .hamburger {
+    padding: 0px;
+    height: 60px;
+    width: 80px;
+  }
+
+  .hero-img {
+    width: 19rem;
+    height: 10rem;
+    margin-left: 2rem;
+  }
+
+  .text-img {
+    height: 2rem;
+    width: 10rem;
+    margin-top: 4rem;
+  }
+
+  .square {
+    width: 2.5rem;
+    height: 2rem;
+    margin-top: 4rem;
+  }
+
+  .next {
+    height: 3.5rem;
+    margin-top: -7rem;
+    margin-left: 19rem;
+  }
+
+  .indicaters {
+    height: 10px;
+    width: 10px;
+    margin-top: -1.6rem;
+    margin-bottom: 2rem;
+    margin-left: 17.5rem;
+  }
+
+  .icons {
+    width: 8rem;
+    padding: 5px;
+  }
+
+  .none {
+    display: none;
+  }
+
+  .text-area {
+    margin: 1rem;
+    font-size: 12px;
+  }
+
+  .box-card1,
+  .card-box2,
+  .card-box3 {
+    width: 18rem;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 1rem;
+  }
+
+  .btn-card1,
+  .btn-card2 {
+    width: 8rem;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 9px;
+    margin-bottom: 10px;
+  }
+}
+
+@media only screen and (min-width: 386px) and (max-width: 430px) {
+  .navbar {
+    gap: 5rem;
+    padding: 5px;
+  }
+
+  .logo {
+    width: 100px;
+  }
+
+  .hamburger {
+    padding: 0px;
+    height: 60px;
+    width: 80px;
+  }
+
+  .hero-img {
+    width: 22rem;
+    height: 12rem;
+    margin-left: 2.2rem;
+  }
+
+  .text-img {
+    height: 2.5rem;
+    width: 14rem;
+    margin-top: 4.5rem;
+  }
+
+  .square {
+    width: 2.4rem;
+    height: 2.2rem;
+    margin-top: 4.5rem;
+  }
+
+  .next {
+    height: 3.5rem;
+    margin-top: -8.5rem;
+    margin-left: 22rem;
+  }
+
+  .indicaters {
+    height: 10px;
+    width: 10px;
+    margin-top: -1.6rem;
+    margin-bottom: 2rem;
+    margin-left: 20.8rem;
+  }
+
+  .icons {
+    width: 10rem;
+    padding: 5px;
+  }
+
+  .none {
+    display: none;
+  }
+
+  .text-area {
+    margin: 1rem;
+    font-size: 12px;
+  }
+
+  .box-card1,
+  .card-box2,
+  .card-box3 {
+    width: 18rem;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 1rem;
+  }
+
+  .btn-card1,
+  .btn-card2 {
+    width: 8rem;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 9px;
+    margin-bottom: 10px;
+  }
+}
+
+@media only screen and (min-width: 431px) and (max-width: 500px) {
+  .navbar {
+    gap: 5rem;
+    padding: 5px;
+  }
+
+  .logo {
+    width: 100px;
+  }
+
+  .hamburger {
+    padding: 0px;
+    height: 60px;
+    width: 80px;
+  }
+
+  .hero-img {
+    width: 25rem;
+    height: 13rem;
+    margin-left: 2.2rem;
+  }
+
+  .text-img {
+    height: 2.5rem;
+    width: 14rem;
+    margin-top: 5rem;
+  }
+
+  .square {
+    width: 2.4rem;
+    height: 2.2rem;
+    margin-top: 5rem;
+  }
+
+  .next {
+    height: 3.5rem;
+    margin-top: -8.5rem;
+    margin-left: 25rem;
+  }
+
+  .indicaters {
+    height: 10px;
+    width: 10px;
+    margin-top: -1.6rem;
+    margin-bottom: 2rem;
+    margin-left: 24rem;
+  }
+
+  .icons {
+    width: 12rem;
+    padding: 5px;
+  }
+
+  .none {
+    display: none;
+  }
+
+  .text-area {
+    margin: 1rem;
+    font-size: 12px;
+  }
+
+  .box-card1,
+  .card-box2,
+  .card-box3 {
+    width: 22rem;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 1rem;
+  }
+
+  .btn-card1,
+  .btn-card2 {
+    width: 10rem;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 9px;
+    margin-bottom: 10px;
+  }
+}
+
+@media only screen and (min-width: 501px) and (max-width: 600px) {
+  .navbar {
+    gap: 5rem;
+    padding: 5px;
+  }
+
+  .logo {
+    width: 100px;
+  }
+
+  .hamburger {
+    padding: 0px;
+    height: 60px;
+    width: 80px;
+  }
+
+  .hero-img {
+    width: 30rem;
+    height: 16rem;
+    margin-left: 3rem;
+  }
+
+  .text-img {
+    height: 3rem;
+    width: 17rem;
+    margin-top: 7rem;
+  }
+
+  .square {
+    width: 3rem;
+    height: 3rem;
+    margin-top: 7rem;
+  }
+
+  .next {
+    height: 6rem;
+    margin-top: -10.7rem;
+    margin-left: 29rem;
+  }
+
+  .indicaters {
+    height: 13px;
+    width: 13px;
+    margin-top: -2.2rem;
+    margin-bottom: 2rem;
+    margin-left: 28rem;
+  }
+
+  .icons {
+    width: 12rem;
+    padding: 5px;
+  }
+
+  .none {
+    display: none;
+  }
+
+  .text-area {
+    margin: 1rem;
+    font-size: 12px;
+  }
+
+  .box-card1,
+  .card-box2,
+  .card-box3 {
+    width: 22rem;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 1rem;
+  }
+
+  .btn-card1,
+  .btn-card2 {
+    width: 10rem;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 9px;
+    margin-bottom: 10px;
+  }
+}
+
+@media only screen and (min-width: 601px) and (max-width: 700px) {
+  .navbar {
+    gap: 9rem;
+    padding: 8px;
+  }
+
+  .logo {
+    width: 120px;
+  }
+
+  .hamburger {
+    padding: 0px;
+    height: 60px;
+    width: 80px;
+  }
+
+  .hero-img {
+    width: 35rem;
+    height: 18rem;
+    margin-left: 3rem;
+  }
+
+  .text-img {
+    height: 3.5rem;
+    width: 19rem;
+    margin-top: 7rem;
+  }
+
+  .square {
+    width: 3.65rem;
+    height: 3.5rem;
+    margin-top: 7rem;
+  }
+
+  .next {
+    height: 7rem;
+    margin-top: -13rem;
+    margin-left: 34rem;
+  }
+
+  .indicaters {
+    height: 16px;
+    width: 16px;
+    margin-top: -2.3rem;
+    margin-bottom: 2rem;
+    margin-left: 33rem;
+  }
+
+  .icons {
+    width: 10rem;
+    padding: 5px;
+  }
+
+  .none {
+    display: inline;
+  }
+
+  .text-area {
+    margin: 1rem;
+    font-size: 12px;
+  }
+
+  .box-card1,
+  .card-box2,
+  .card-box3 {
+    width: 22rem;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 1rem;
+  }
+
+  .btn-card1,
+  .btn-card2 {
+    width: 10rem;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 9px;
+    margin-bottom: 10px;
+  }
+}
+
+@media only screen and (min-width: 701px) and (max-width: 800px) {
+  .navbar {
+    gap: 10rem;
+    padding: 10px;
+  }
+
+  .logo {
+    width: 130px;
+  }
+
+  .hamburger {
+    padding: 0px;
+    height: 60px;
+    width: 80px;
+  }
+
+  .hero-img {
+    width: 40rem;
+    height: 20rem;
+    margin-left: 4rem;
+  }
+
+  .text-img {
+    height: 3.8rem;
+    width: 21rem;
+    margin-top: 7.5rem;
+  }
+
+  .square {
+    width: 4rem;
+    height: 3.8rem;
+    margin-top: 7.5rem;
+  }
+
+  .next {
+    height: 8rem;
+    margin-top: -14.7rem;
+    margin-left: 39rem;
+  }
+
+  .indicaters {
+    height: 18px;
+    width: 18px;
+    margin-top: -2.6rem;
+    margin-bottom: 2rem;
+    margin-left: 38rem;
+  }
+
+  .icons {
+    width: 16rem;
+    padding: 5px;
+  }
+
+  .none {
+    display: inline;
+  }
+
+  .text-area {
+    margin: 1rem;
+    font-size: 12px;
+  }
+
+  .box-card1,
+  .card-box2,
+  .card-box3 {
+    width: 22rem;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 1rem;
+  }
+
+  .btn-card1,
+  .btn-card2 {
+    width: 10rem;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 9px;
+    margin-bottom: 10px;
+  }
+}
+
+@media only screen and (min-width: 801px) and (max-width: 1100px) {
+  .navbar {
+    gap: 25rem;
+    padding: 15px;
+  }
+
+  .logo {
+    width: 150px;
+  }
+
+  .hamburger {
+    padding: 0px;
+    height: 80px;
+    width: 100px;
+  }
+
+  .hero-img {
+    width: 55rem;
+    height: 27rem;
+    margin-left: 4.5rem;
+  }
+
+  .text-img {
+    height: 4rem;
+    width: 25rem;
+    margin-top: 11rem;
+  }
+
+  .square {
+    width: 4.5rem;
+    height: 4rem;
+    margin-top: 11rem;
+  }
+
+  .next {
+    height: 8rem;
+    margin-top: -18rem;
+    margin-left: 54rem;
+  }
+
+  .indicaters {
+    height: 19px;
+    width: 19px;
+    margin-top: -3rem;
+    margin-bottom: 4rem;
+    margin-left: 52rem;
+  }
+
+  .icons {
+    width: 20rem;
+    padding: 5px;
+  }
+
+  .none {
+    display: inline;
+  }
+
+  .text-area {
+    margin: 1rem;
+    font-size: 14px;
+  }
+
+  .box-card1,
+  .card-box2,
+  .card-box3 {
+    width: 22rem;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 1rem;
+  }
+
+  .btn-card1,
+  .btn-card2 {
+    width: 10rem;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 10px;
+    margin-bottom: 10px;
+  }
+}
+
+@media only screen and (width: 2560px) {
+    .navbar {
+        gap: 60rem;
+        padding: 30px;
+      }
+    
+      .logo {
+        width: 250px;
+      }
+    
+      .hamburger {
+        padding: 0px;
+        height: 120px;
+        width: 150px;
+      }
+    
+      .hero-img {
+        width: 140rem;
+        height: 70rem;
+        margin-left: 10rem;
+      }
+    
+      .text-img {
+        height: 10rem;
+        width: 60rem;
+        margin-top: 28rem;
+      }
+    
+      .square {
+        width: 10rem;
+        height: 10rem;
+        margin-top: 28rem;
+      }
+    
+      .next {
+        height: 25rem;
+        margin-top: -50rem;
+        margin-left: 135rem;
+      }
+    
+      .indicaters {
+        height: 50px;
+        width: 50px;
+        margin-top: -6rem;
+        margin-bottom: 5rem;
+        margin-left: 134rem;
+      }
+    
+      .icons {
+        width: 50rem;
+        padding: 10px;
+      }
+    
+      .none {
+        display: inline;
+      }
+    
+      .text-area {
+        margin: 10rem;
+        font-size: 35px;
+      }
+    
+      .box-card1,
+      .card-box2,
+      .card-box3 {
+        width: 45rem;
+        padding-left: 40px;
+        padding-bottom: 40px;
+        line-height: 1.5;
+        margin-bottom: 2rem;
+      }
+    
+      .btn-card1,
+      .btn-card2 {
+        width: 20rem;
+        padding: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        font-size: 20px;
+        margin-bottom: 20px;
+      }
+
+      .t1 {
+        font-size: 8rem;
+      }
+
+      .t2 {
+        font-size: 2rem;
+      }
+    
+}

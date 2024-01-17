@@ -46,9 +46,16 @@
     margin-left: 14rem;
   }
 
+  .text-visio {
+    font-size: 14px;
+    margin-right: -60px;
+  }
+
   .icons {
-    width: 8rem;
+    width: 10rem;
     padding: 5px;
+    transform: rotate(90deg);
+    margin-top: 90px;
   }
 
   .none {
@@ -71,12 +78,17 @@
 
   .btn-card1,
   .btn-card2 {
-    width: 8rem;
+    width: 18rem;
     padding: 5px;
     padding-left: 10px;
     padding-right: 10px;
-    font-size: 9px;
+    font-size: 14px;
     margin-bottom: 10px;
+  }
+
+  .btn-container {
+    flex-direction: column;
+    align-items: center;
   }
 }
 

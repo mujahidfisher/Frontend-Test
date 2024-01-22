@@ -26,10 +26,26 @@
     margin-top: 4rem;
   }
 
+  .text-box {
+    display: none;
+  }
+
+  .textbox2 {
+    position: absolute;
+    z-index: 2000;
+    width: 13rem;
+    padding: 8px;
+    margin-top: 3.5rem;
+    font-size: 11.5px;
+    background-color: #244ac2;
+    color: white;
+    text-align: right;
+  }
+
   .square {
     width: 2rem;
-    height: 1.7rem;
-    margin-top: 4rem;
+    height: 2rem;
+    margin-top: 3.5rem;
   }
 
   .next {
@@ -47,15 +63,12 @@
   }
 
   .text-visio {
-    font-size: 14px;
-    margin-right: -60px;
+    font-size: 10px;
   }
 
   .icons {
     width: 10rem;
     padding: 5px;
-    transform: rotate(90deg);
-    margin-top: 90px;
   }
 
   .none {
@@ -82,7 +95,7 @@
     padding: 5px;
     padding-left: 10px;
     padding-right: 10px;
-    font-size: 14px;
+    font-size: 12px;
     margin-bottom: 10px;
   }
 
@@ -118,6 +131,22 @@
     height: 2rem;
     width: 10rem;
     margin-top: 4rem;
+  }
+
+  .text-box {
+    display: none;
+  }
+
+  .textbox2 {
+    position: absolute;
+    z-index: 2000;
+    width: 13rem;
+    padding: 8px;
+    margin-top: 4rem;
+    font-size: 11.5px;
+    background-color: #244ac2;
+    color: white;
+    text-align: right;
   }
 
   .square {
@@ -165,12 +194,17 @@
 
   .btn-card1,
   .btn-card2 {
-    width: 8rem;
+    width: 18rem;
     padding: 5px;
     padding-left: 10px;
     padding-right: 10px;
-    font-size: 9px;
+    font-size: 12px;
     margin-bottom: 10px;
+  }
+
+  .btn-container {
+    flex-direction: column;
+    align-items: center;
   }
 }
 
@@ -200,6 +234,22 @@
     height: 2.5rem;
     width: 14rem;
     margin-top: 4.5rem;
+  }
+
+  .text-box {
+    display: none;
+  }
+
+  .textbox2 {
+    position: absolute;
+    z-index: 2000;
+    width: 13rem;
+    padding: 10px;
+    margin-top: 4.5rem;
+    font-size: 11.5px;
+    background-color: #244ac2;
+    color: white;
+    text-align: right;
   }
 
   .square {
@@ -247,12 +297,17 @@
 
   .btn-card1,
   .btn-card2 {
-    width: 8rem;
+    width: 18rem;
     padding: 5px;
     padding-left: 10px;
     padding-right: 10px;
-    font-size: 9px;
+    font-size: 12px;
     margin-bottom: 10px;
+  }
+
+  .btn-container {
+    flex-direction: column;
+    align-items: center;
   }
 }
 
@@ -282,6 +337,14 @@
     height: 2.5rem;
     width: 14rem;
     margin-top: 5rem;
+  }
+
+  .textbox2 {
+    display: none;
+  }
+
+  .lookbeyond {
+    display: none;
   }
 
   .square {
@@ -329,12 +392,17 @@
 
   .btn-card1,
   .btn-card2 {
-    width: 10rem;
+    width: 22rem;
     padding: 5px;
     padding-left: 10px;
     padding-right: 10px;
-    font-size: 9px;
+    font-size: 11px;
     margin-bottom: 10px;
+  }
+
+  .btn-container {
+    flex-direction: column;
+    align-items: center;
   }
 }
 
@@ -364,6 +432,14 @@
     height: 3rem;
     width: 17rem;
     margin-top: 7rem;
+  }
+
+  .textbox2 {
+    display: none;
+  }
+
+  .lookbeyond {
+    display: none;
   }
 
   .square {
@@ -415,7 +491,7 @@
     padding: 5px;
     padding-left: 10px;
     padding-right: 10px;
-    font-size: 9px;
+    font-size: 12px;
     margin-bottom: 10px;
   }
 }
@@ -446,6 +522,14 @@
     height: 3.5rem;
     width: 19rem;
     margin-top: 7rem;
+  }
+
+  .textbox2 {
+    display: none;
+  }
+
+  .lookbeyond {
+    display: none;
   }
 
   .square {
@@ -497,7 +581,7 @@
     padding: 5px;
     padding-left: 10px;
     padding-right: 10px;
-    font-size: 9px;
+    font-size: 13px;
     margin-bottom: 10px;
   }
 }
@@ -528,6 +612,14 @@
     height: 3.8rem;
     width: 21rem;
     margin-top: 7.5rem;
+  }
+
+  .textbox2 {
+    display: none;
+  }
+
+  .lookbeyond {
+    display: none;
   }
 
   .square {
@@ -579,7 +671,7 @@
     padding: 5px;
     padding-left: 10px;
     padding-right: 10px;
-    font-size: 9px;
+    font-size: 11px;
     margin-bottom: 10px;
   }
 }
@@ -602,7 +694,7 @@
 
   .hero-img {
     width: 55rem;
-    height: 27rem;
+    height: 26rem;
     margin-left: 4.5rem;
   }
 
@@ -610,6 +702,14 @@
     height: 4rem;
     width: 25rem;
     margin-top: 11rem;
+  }
+
+  .textbox2 {
+    display: none;
+  }
+
+  .lookbeyond {
+    display: none;
   }
 
   .square {
@@ -661,8 +761,14 @@
     padding: 5px;
     padding-left: 10px;
     padding-right: 10px;
-    font-size: 10px;
+    font-size: 11px;
     margin-bottom: 10px;
+  }
+}
+
+@media only screen and (min-width: 1100px) and (max-width: 2500px) {
+  .lookbeyond {
+    display: none;
   }
 }
 
